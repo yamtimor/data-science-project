@@ -14,6 +14,7 @@ if __name__ == "__main__":
     # con.request_data()
     data = con.request_data()
 
-    df = con.ckan_to_dataframe(data)
+    # df = con.ckan_to_dataframe(data)
 
-    df.to_csv('')
+    # df.to_csv(r'C:\Users\yamti\PycharmProjects\data-science-project\ravkav2022.csv')
+
