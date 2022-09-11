@@ -6,7 +6,7 @@ if __name__ == "__main__":
 
     url = 'https://data.gov.il'
     params = {
-        'resource_id':'ecfff372-8e52-43da-99e8-3f73cb053c62',
+        'resource_id':'bfd22231-7a8b-4fc0-91bd-342397860ab5',
         'limit':'10000'
     }
     con = CkanController(url, params)
@@ -14,4 +14,6 @@ if __name__ == "__main__":
     # con.request_data()
     data = con.request_data()
 
-    print(con.ckan_to_dataframe(data))
+    df = con.ckan_to_dataframe(data)
+
+    df.to_csv('')

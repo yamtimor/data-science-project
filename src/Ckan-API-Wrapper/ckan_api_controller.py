@@ -23,8 +23,8 @@ class CkanController:
                 if response.ok:
                     self.logger.info('Connected successfully to API')
                     records += data['result']['records']
-                    # print(data['result']['_links']['next'])
-                    # print(len(data['result']['records']))
+                    # print(resources['result']['_links']['next'])
+                    # print(len(resources['result']['records']))
                 else:
                     self.logger.error('Got invalid response from API. Status: %s',response.status_code)
                     raise CkanAPIResponseError
@@ -39,6 +39,6 @@ class CkanController:
 
     @staticmethod
     def ckan_to_dataframe(data):
-        # columns = data['result']['fields']
+        # columns = resources['result']['fields']
         df = pd.DataFrame.from_records(data)
         return df
