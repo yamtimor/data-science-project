@@ -12,7 +12,7 @@ ArealAttributionType סיווג של השיוך הגאוגרפי של התיקי
 PoliceDistrict המחוז שבתחומו התרחשו העבירות - V
 PoliceMerhav המרחב שבתחומו התרחשו העבירות - V
 PoliceStation התחנה שבתחומה התרחשו העבירות- V
-Settlement_Council הישוב, או המועצה האזורית, או המקום שבתחומם התרחשו העבירות- V
+Settlement_Council הישוב, או המועצה האזורית, או המקום שבתחומם התרחשו העבירות- X
 StatArea  האזור הסטטיסטי שבתחומו התרחשו העבירות - DROP THIS VARIABLE
 Quarter רבעון ושנה בהם קרו העבירות- V
 StatisticCrimeGroup קבוצת העבירה- V
