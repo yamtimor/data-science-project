@@ -658,3 +658,618 @@
 11:54:30,185 ckan_logger INFO Connected successfully to API
 11:54:30,185 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
 11:54:30,422 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000&offset=430000 HTTP/1.1" 200 744
+12:59:21,808 root INFO Running ckan
+12:59:21,824 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+12:59:22,288 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000 HTTP/1.1" 200 None
+12:59:22,749 ckan_logger INFO Connected successfully to API
+12:59:22,749 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+12:59:22,969 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000&offset=10000 HTTP/1.1" 200 None
+12:59:23,421 ckan_logger INFO Connected successfully to API
+12:59:23,421 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+12:59:23,672 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000&offset=20000 HTTP/1.1" 200 None
+12:59:24,185 ckan_logger INFO Connected successfully to API
+12:59:24,185 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+12:59:24,390 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000&offset=30000 HTTP/1.1" 200 None
+12:59:24,848 ckan_logger INFO Connected successfully to API
+12:59:24,848 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+12:59:25,55 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000&offset=40000 HTTP/1.1" 200 None
+12:59:25,530 ckan_logger INFO Connected successfully to API
+12:59:25,530 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+12:59:25,790 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000&offset=50000 HTTP/1.1" 200 None
+12:59:27,104 ckan_logger INFO Connected successfully to API
+12:59:27,104 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+12:59:27,294 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000&offset=60000 HTTP/1.1" 200 None
+12:59:28,72 ckan_logger INFO Connected successfully to API
+12:59:28,72 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+12:59:28,291 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000&offset=70000 HTTP/1.1" 200 None
+12:59:28,673 ckan_logger INFO Connected successfully to API
+12:59:28,673 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+12:59:28,882 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000&offset=80000 HTTP/1.1" 200 None
+12:59:29,373 ckan_logger INFO Connected successfully to API
+12:59:29,381 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+12:59:29,605 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000&offset=90000 HTTP/1.1" 200 None
+12:59:30,196 ckan_logger INFO Connected successfully to API
+12:59:30,204 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+12:59:30,413 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000&offset=100000 HTTP/1.1" 200 None
+12:59:30,921 ckan_logger INFO Connected successfully to API
+12:59:30,929 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+12:59:31,140 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000&offset=110000 HTTP/1.1" 200 None
+12:59:31,737 ckan_logger INFO Connected successfully to API
+12:59:31,745 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+12:59:31,947 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000&offset=120000 HTTP/1.1" 200 None
+12:59:32,492 ckan_logger INFO Connected successfully to API
+12:59:32,495 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+12:59:32,715 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000&offset=130000 HTTP/1.1" 200 None
+12:59:33,286 ckan_logger INFO Connected successfully to API
+12:59:33,294 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+12:59:33,505 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000&offset=140000 HTTP/1.1" 200 None
+12:59:34,88 ckan_logger INFO Connected successfully to API
+12:59:34,88 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+12:59:34,311 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000&offset=150000 HTTP/1.1" 200 None
+12:59:34,884 ckan_logger INFO Connected successfully to API
+12:59:34,884 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+12:59:35,105 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000&offset=160000 HTTP/1.1" 200 None
+12:59:35,666 ckan_logger INFO Connected successfully to API
+12:59:35,666 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+12:59:35,953 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000&offset=170000 HTTP/1.1" 200 None
+12:59:36,544 ckan_logger INFO Connected successfully to API
+12:59:36,552 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+12:59:36,761 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000&offset=180000 HTTP/1.1" 200 None
+12:59:37,394 ckan_logger INFO Connected successfully to API
+12:59:37,394 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+12:59:37,658 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000&offset=190000 HTTP/1.1" 200 None
+12:59:38,319 ckan_logger INFO Connected successfully to API
+12:59:38,319 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+12:59:38,633 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000&offset=200000 HTTP/1.1" 200 None
+12:59:39,466 ckan_logger INFO Connected successfully to API
+12:59:39,466 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+12:59:39,780 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000&offset=210000 HTTP/1.1" 200 None
+12:59:40,454 ckan_logger INFO Connected successfully to API
+12:59:40,454 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+12:59:40,674 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000&offset=220000 HTTP/1.1" 200 None
+12:59:41,258 ckan_logger INFO Connected successfully to API
+12:59:41,258 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+12:59:41,478 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000&offset=230000 HTTP/1.1" 200 None
+12:59:42,108 ckan_logger INFO Connected successfully to API
+12:59:42,108 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+12:59:42,369 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000&offset=240000 HTTP/1.1" 200 None
+12:59:42,834 ckan_logger INFO Connected successfully to API
+12:59:42,849 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+12:59:43,53 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000&offset=250000 HTTP/1.1" 200 None
+12:59:43,475 ckan_logger INFO Connected successfully to API
+12:59:43,475 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+12:59:43,695 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000&offset=260000 HTTP/1.1" 200 None
+12:59:44,158 ckan_logger INFO Connected successfully to API
+12:59:44,158 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+12:59:44,426 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000&offset=270000 HTTP/1.1" 200 None
+12:59:44,929 ckan_logger INFO Connected successfully to API
+12:59:44,929 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+12:59:45,149 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000&offset=280000 HTTP/1.1" 200 None
+12:59:45,640 ckan_logger INFO Connected successfully to API
+12:59:45,640 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+12:59:45,845 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000&offset=290000 HTTP/1.1" 200 None
+12:59:46,276 ckan_logger INFO Connected successfully to API
+12:59:46,286 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+12:59:46,521 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000&offset=300000 HTTP/1.1" 200 None
+12:59:46,994 ckan_logger INFO Connected successfully to API
+12:59:46,994 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+12:59:47,208 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000&offset=310000 HTTP/1.1" 200 None
+12:59:47,686 ckan_logger INFO Connected successfully to API
+12:59:47,686 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+12:59:47,906 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000&offset=320000 HTTP/1.1" 200 None
+12:59:48,361 ckan_logger INFO Connected successfully to API
+12:59:48,368 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+12:59:48,568 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000&offset=330000 HTTP/1.1" 200 None
+12:59:48,981 ckan_logger INFO Connected successfully to API
+12:59:48,981 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+12:59:49,181 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000&offset=340000 HTTP/1.1" 200 None
+12:59:49,623 ckan_logger INFO Connected successfully to API
+12:59:49,623 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+12:59:49,827 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000&offset=350000 HTTP/1.1" 200 None
+12:59:50,268 ckan_logger INFO Connected successfully to API
+12:59:50,268 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+12:59:50,472 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000&offset=360000 HTTP/1.1" 200 None
+12:59:50,865 ckan_logger INFO Connected successfully to API
+12:59:50,881 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+12:59:51,139 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000&offset=370000 HTTP/1.1" 200 None
+12:59:51,672 ckan_logger INFO Connected successfully to API
+12:59:51,672 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+12:59:51,886 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000&offset=380000 HTTP/1.1" 200 None
+12:59:52,255 ckan_logger INFO Connected successfully to API
+12:59:52,272 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+12:59:52,460 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000&offset=390000 HTTP/1.1" 200 None
+12:59:52,916 ckan_logger INFO Connected successfully to API
+12:59:52,916 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+12:59:53,136 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000&offset=400000 HTTP/1.1" 200 None
+12:59:53,576 ckan_logger INFO Connected successfully to API
+12:59:53,576 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+12:59:53,788 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000&offset=410000 HTTP/1.1" 200 None
+12:59:54,220 ckan_logger INFO Connected successfully to API
+12:59:54,220 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+12:59:54,440 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000&offset=420000 HTTP/1.1" 200 94285
+12:59:54,614 ckan_logger INFO Connected successfully to API
+12:59:54,614 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+12:59:54,836 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000&offset=430000 HTTP/1.1" 200 744
+13:17:13,289 root INFO Running ckan
+13:17:13,289 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+13:17:14,23 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000 HTTP/1.1" 200 None
+13:17:14,456 ckan_logger INFO Connected successfully to API
+13:17:14,456 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+13:17:14,661 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000&offset=10000 HTTP/1.1" 200 None
+13:17:15,224 ckan_logger INFO Connected successfully to API
+13:17:15,224 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+13:17:15,464 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000&offset=20000 HTTP/1.1" 200 None
+13:17:15,953 ckan_logger INFO Connected successfully to API
+13:17:15,969 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+13:17:16,160 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000&offset=30000 HTTP/1.1" 200 None
+13:17:16,553 ckan_logger INFO Connected successfully to API
+13:17:16,553 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+13:17:16,773 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000&offset=40000 HTTP/1.1" 200 None
+13:17:17,196 ckan_logger INFO Connected successfully to API
+13:17:17,196 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+13:17:17,432 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000&offset=50000 HTTP/1.1" 200 None
+13:17:18,411 ckan_logger INFO Connected successfully to API
+13:17:18,411 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+13:17:18,616 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000&offset=60000 HTTP/1.1" 200 None
+13:17:19,17 ckan_logger INFO Connected successfully to API
+13:17:19,17 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+13:17:19,236 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000&offset=70000 HTTP/1.1" 200 None
+13:17:19,614 ckan_logger INFO Connected successfully to API
+13:17:19,614 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+13:17:19,802 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000&offset=80000 HTTP/1.1" 200 None
+13:17:20,179 ckan_logger INFO Connected successfully to API
+13:17:20,179 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+13:17:20,415 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000&offset=90000 HTTP/1.1" 200 None
+13:17:20,847 ckan_logger INFO Connected successfully to API
+13:17:20,847 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+13:17:21,52 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000&offset=100000 HTTP/1.1" 200 None
+13:17:21,445 ckan_logger INFO Connected successfully to API
+13:17:21,461 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+13:17:21,665 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000&offset=110000 HTTP/1.1" 200 None
+13:17:22,58 ckan_logger INFO Connected successfully to API
+13:17:22,58 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+13:17:22,263 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000&offset=120000 HTTP/1.1" 200 None
+13:17:22,655 ckan_logger INFO Connected successfully to API
+13:17:22,655 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+13:17:22,875 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000&offset=130000 HTTP/1.1" 200 None
+13:17:23,299 ckan_logger INFO Connected successfully to API
+13:17:23,299 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+13:17:23,503 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000&offset=140000 HTTP/1.1" 200 None
+13:17:23,943 ckan_logger INFO Connected successfully to API
+13:17:23,943 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+13:17:24,164 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000&offset=150000 HTTP/1.1" 200 None
+13:17:24,667 ckan_logger INFO Connected successfully to API
+13:17:24,667 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+13:17:24,887 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000&offset=160000 HTTP/1.1" 200 None
+13:17:25,298 ckan_logger INFO Connected successfully to API
+13:17:25,298 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+13:17:25,533 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000&offset=170000 HTTP/1.1" 200 None
+13:17:25,974 ckan_logger INFO Connected successfully to API
+13:17:25,988 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+13:17:26,193 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000&offset=180000 HTTP/1.1" 200 None
+13:17:26,634 ckan_logger INFO Connected successfully to API
+13:17:26,649 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+13:17:26,854 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000&offset=190000 HTTP/1.1" 200 None
+13:17:27,310 ckan_logger INFO Connected successfully to API
+13:17:27,315 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+13:17:27,551 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000&offset=200000 HTTP/1.1" 200 None
+13:17:28,72 ckan_logger INFO Connected successfully to API
+13:17:28,72 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+13:17:28,288 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000&offset=210000 HTTP/1.1" 200 None
+13:17:28,748 ckan_logger INFO Connected successfully to API
+13:17:28,748 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+13:17:28,952 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000&offset=220000 HTTP/1.1" 200 None
+13:17:29,367 ckan_logger INFO Connected successfully to API
+13:17:29,367 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+13:17:29,576 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000&offset=230000 HTTP/1.1" 200 None
+13:17:29,979 ckan_logger INFO Connected successfully to API
+13:17:29,979 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+13:17:30,230 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000&offset=240000 HTTP/1.1" 200 None
+13:17:30,717 ckan_logger INFO Connected successfully to API
+13:17:30,717 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+13:17:30,920 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000&offset=250000 HTTP/1.1" 200 None
+13:17:31,392 ckan_logger INFO Connected successfully to API
+13:17:31,392 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+13:17:31,612 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000&offset=260000 HTTP/1.1" 200 None
+13:17:32,52 ckan_logger INFO Connected successfully to API
+13:17:32,52 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+13:17:32,304 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000&offset=270000 HTTP/1.1" 200 None
+13:17:32,776 ckan_logger INFO Connected successfully to API
+13:17:32,776 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+13:17:33,11 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000&offset=280000 HTTP/1.1" 200 None
+13:17:33,467 ckan_logger INFO Connected successfully to API
+13:17:33,467 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+13:17:33,686 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000&offset=290000 HTTP/1.1" 200 None
+13:17:34,103 ckan_logger INFO Connected successfully to API
+13:17:34,110 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+13:17:34,360 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000&offset=300000 HTTP/1.1" 200 None
+13:17:34,847 ckan_logger INFO Connected successfully to API
+13:17:34,847 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+13:17:35,51 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000&offset=310000 HTTP/1.1" 200 None
+13:17:35,494 ckan_logger INFO Connected successfully to API
+13:17:35,494 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+13:17:35,715 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000&offset=320000 HTTP/1.1" 200 None
+13:17:36,138 ckan_logger INFO Connected successfully to API
+13:17:36,138 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+13:17:36,327 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000&offset=330000 HTTP/1.1" 200 None
+13:17:36,738 ckan_logger INFO Connected successfully to API
+13:17:36,738 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+13:17:36,942 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000&offset=340000 HTTP/1.1" 200 None
+13:17:37,368 ckan_logger INFO Connected successfully to API
+13:17:37,368 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+13:17:37,568 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000&offset=350000 HTTP/1.1" 200 None
+13:17:37,992 ckan_logger INFO Connected successfully to API
+13:17:38,8 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+13:17:38,197 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000&offset=360000 HTTP/1.1" 200 None
+13:17:38,574 ckan_logger INFO Connected successfully to API
+13:17:38,574 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+13:17:38,824 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000&offset=370000 HTTP/1.1" 200 None
+13:17:39,342 ckan_logger INFO Connected successfully to API
+13:17:39,358 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+13:17:39,562 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000&offset=380000 HTTP/1.1" 200 None
+13:17:39,939 ckan_logger INFO Connected successfully to API
+13:17:39,955 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+13:17:40,159 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000&offset=390000 HTTP/1.1" 200 None
+13:17:40,584 ckan_logger INFO Connected successfully to API
+13:17:40,584 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+13:17:40,788 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000&offset=400000 HTTP/1.1" 200 None
+13:17:41,214 ckan_logger INFO Connected successfully to API
+13:17:41,214 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+13:17:41,418 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000&offset=410000 HTTP/1.1" 200 None
+13:17:41,827 ckan_logger INFO Connected successfully to API
+13:17:41,827 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+13:17:42,47 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000&offset=420000 HTTP/1.1" 200 94285
+13:17:42,220 ckan_logger INFO Connected successfully to API
+13:17:42,227 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+13:17:42,424 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000&offset=430000 HTTP/1.1" 200 744
+13:18:07,178 root INFO Running ckan
+13:18:07,183 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+13:18:07,392 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000 HTTP/1.1" 200 None
+13:18:07,820 ckan_logger INFO Connected successfully to API
+13:18:07,820 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+13:18:08,60 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000&offset=10000 HTTP/1.1" 200 None
+13:18:08,627 ckan_logger INFO Connected successfully to API
+13:18:08,627 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+13:18:08,889 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000&offset=20000 HTTP/1.1" 200 None
+13:18:09,398 ckan_logger INFO Connected successfully to API
+13:18:09,398 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+13:18:09,649 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000&offset=30000 HTTP/1.1" 200 None
+13:18:10,247 ckan_logger INFO Connected successfully to API
+13:18:10,247 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+13:18:10,468 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000&offset=40000 HTTP/1.1" 200 None
+13:18:10,893 ckan_logger INFO Connected successfully to API
+13:18:10,893 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+13:18:11,145 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000&offset=50000 HTTP/1.1" 200 None
+13:18:12,144 ckan_logger INFO Connected successfully to API
+13:18:12,144 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+13:18:12,365 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000&offset=60000 HTTP/1.1" 200 None
+13:18:12,789 ckan_logger INFO Connected successfully to API
+13:18:12,789 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+13:18:12,978 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000&offset=70000 HTTP/1.1" 200 None
+13:18:13,356 ckan_logger INFO Connected successfully to API
+13:18:13,356 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+13:18:13,561 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000&offset=80000 HTTP/1.1" 200 None
+13:18:13,984 ckan_logger INFO Connected successfully to API
+13:18:13,984 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+13:18:14,201 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000&offset=90000 HTTP/1.1" 200 None
+13:18:14,630 ckan_logger INFO Connected successfully to API
+13:18:14,630 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+13:18:14,854 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000&offset=100000 HTTP/1.1" 200 None
+13:18:15,273 ckan_logger INFO Connected successfully to API
+13:18:15,273 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+13:18:15,478 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000&offset=110000 HTTP/1.1" 200 None
+13:18:15,901 ckan_logger INFO Connected successfully to API
+13:18:15,901 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+13:18:16,153 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000&offset=120000 HTTP/1.1" 200 None
+13:18:16,580 ckan_logger INFO Connected successfully to API
+13:18:16,580 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+13:18:16,783 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000&offset=130000 HTTP/1.1" 200 None
+13:18:17,223 ckan_logger INFO Connected successfully to API
+13:18:17,223 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+13:18:17,474 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000&offset=140000 HTTP/1.1" 200 None
+13:18:17,994 ckan_logger INFO Connected successfully to API
+13:18:17,994 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+13:18:18,230 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000&offset=150000 HTTP/1.1" 200 None
+13:18:18,755 ckan_logger INFO Connected successfully to API
+13:18:18,755 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+13:18:18,958 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000&offset=160000 HTTP/1.1" 200 None
+13:18:19,350 ckan_logger INFO Connected successfully to API
+13:18:19,350 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+13:18:19,601 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000&offset=170000 HTTP/1.1" 200 None
+13:18:20,88 ckan_logger INFO Connected successfully to API
+13:18:20,104 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+13:18:20,307 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000&offset=180000 HTTP/1.1" 200 None
+13:18:20,747 ckan_logger INFO Connected successfully to API
+13:18:20,747 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+13:18:20,951 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000&offset=190000 HTTP/1.1" 200 None
+13:18:21,356 ckan_logger INFO Connected successfully to API
+13:18:21,371 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+13:18:21,572 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000&offset=200000 HTTP/1.1" 200 None
+13:18:21,987 ckan_logger INFO Connected successfully to API
+13:18:21,987 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+13:18:22,192 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000&offset=210000 HTTP/1.1" 200 None
+13:18:22,648 ckan_logger INFO Connected successfully to API
+13:18:22,648 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+13:18:22,852 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000&offset=220000 HTTP/1.1" 200 None
+13:18:23,275 ckan_logger INFO Connected successfully to API
+13:18:23,275 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+13:18:23,496 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000&offset=230000 HTTP/1.1" 200 None
+13:18:23,951 ckan_logger INFO Connected successfully to API
+13:18:23,951 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+13:18:24,156 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000&offset=240000 HTTP/1.1" 200 None
+13:18:24,549 ckan_logger INFO Connected successfully to API
+13:18:24,549 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+13:18:24,800 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000&offset=250000 HTTP/1.1" 200 None
+13:18:25,291 ckan_logger INFO Connected successfully to API
+13:18:25,291 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+13:18:25,510 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000&offset=260000 HTTP/1.1" 200 None
+13:18:25,949 ckan_logger INFO Connected successfully to API
+13:18:25,949 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+13:18:26,184 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000&offset=270000 HTTP/1.1" 200 None
+13:18:26,680 ckan_logger INFO Connected successfully to API
+13:18:26,680 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+13:18:26,884 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000&offset=280000 HTTP/1.1" 200 None
+13:18:27,261 ckan_logger INFO Connected successfully to API
+13:18:27,261 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+13:18:27,482 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000&offset=290000 HTTP/1.1" 200 None
+13:18:27,923 ckan_logger INFO Connected successfully to API
+13:18:27,923 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+13:18:28,111 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000&offset=300000 HTTP/1.1" 200 None
+13:18:28,518 ckan_logger INFO Connected successfully to API
+13:18:28,518 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+13:18:28,707 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000&offset=310000 HTTP/1.1" 200 None
+13:18:29,213 ckan_logger INFO Connected successfully to API
+13:18:29,213 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+13:18:29,417 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000&offset=320000 HTTP/1.1" 200 None
+13:18:29,826 ckan_logger INFO Connected successfully to API
+13:18:29,826 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+13:18:30,30 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000&offset=330000 HTTP/1.1" 200 None
+13:18:30,423 ckan_logger INFO Connected successfully to API
+13:18:30,423 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+13:18:30,645 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000&offset=340000 HTTP/1.1" 200 None
+13:18:31,52 ckan_logger INFO Connected successfully to API
+13:18:31,52 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+13:18:31,303 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000&offset=350000 HTTP/1.1" 200 None
+13:18:31,789 ckan_logger INFO Connected successfully to API
+13:18:31,789 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+13:18:32,9 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000&offset=360000 HTTP/1.1" 200 None
+13:18:32,416 ckan_logger INFO Connected successfully to API
+13:18:32,431 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+13:18:32,669 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000&offset=370000 HTTP/1.1" 200 None
+13:18:33,251 ckan_logger INFO Connected successfully to API
+13:18:33,252 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+13:18:33,504 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000&offset=380000 HTTP/1.1" 200 None
+13:18:34,6 ckan_logger INFO Connected successfully to API
+13:18:34,6 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+13:18:34,194 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000&offset=390000 HTTP/1.1" 200 None
+13:18:34,587 ckan_logger INFO Connected successfully to API
+13:18:34,587 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+13:18:34,791 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000&offset=400000 HTTP/1.1" 200 None
+13:18:35,247 ckan_logger INFO Connected successfully to API
+13:18:35,247 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+13:18:35,435 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000&offset=410000 HTTP/1.1" 200 None
+13:18:35,876 ckan_logger INFO Connected successfully to API
+13:18:35,876 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+13:18:36,81 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000&offset=420000 HTTP/1.1" 200 94285
+13:18:36,268 ckan_logger INFO Connected successfully to API
+13:18:36,268 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+13:18:36,473 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000&offset=430000 HTTP/1.1" 200 744
+13:20:18,204 root INFO Running ckan
+13:20:18,204 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+13:20:18,464 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000 HTTP/1.1" 200 None
+13:20:19,35 ckan_logger INFO Connected successfully to API
+13:20:19,35 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+13:20:19,286 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000&offset=10000 HTTP/1.1" 200 None
+13:20:19,789 ckan_logger INFO Connected successfully to API
+13:20:19,789 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+13:20:20,9 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000&offset=20000 HTTP/1.1" 200 None
+13:20:20,405 ckan_logger INFO Connected successfully to API
+13:20:20,421 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+13:20:20,625 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000&offset=30000 HTTP/1.1" 200 None
+13:20:21,48 ckan_logger INFO Connected successfully to API
+13:20:21,48 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+13:20:21,267 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000&offset=40000 HTTP/1.1" 200 None
+13:20:21,722 ckan_logger INFO Connected successfully to API
+13:20:21,722 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+13:20:21,942 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000&offset=50000 HTTP/1.1" 200 None
+13:20:22,883 ckan_logger INFO Connected successfully to API
+13:20:22,883 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+13:20:23,71 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000&offset=60000 HTTP/1.1" 200 None
+13:20:23,522 ckan_logger INFO Connected successfully to API
+13:20:23,522 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+13:20:23,730 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000&offset=70000 HTTP/1.1" 200 None
+13:20:24,121 ckan_logger INFO Connected successfully to API
+13:20:24,121 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+13:20:24,341 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000&offset=80000 HTTP/1.1" 200 None
+13:20:24,718 ckan_logger INFO Connected successfully to API
+13:20:24,718 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+13:20:24,937 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000&offset=90000 HTTP/1.1" 200 None
+13:20:25,361 ckan_logger INFO Connected successfully to API
+13:20:25,361 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+13:20:25,565 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000&offset=100000 HTTP/1.1" 200 None
+13:20:25,992 ckan_logger INFO Connected successfully to API
+13:20:25,992 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+13:20:26,211 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000&offset=110000 HTTP/1.1" 200 None
+13:20:26,636 ckan_logger INFO Connected successfully to API
+13:20:26,636 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+13:20:26,840 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000&offset=120000 HTTP/1.1" 200 None
+13:20:27,248 ckan_logger INFO Connected successfully to API
+13:20:27,248 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+13:20:27,452 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000&offset=130000 HTTP/1.1" 200 None
+13:20:27,876 ckan_logger INFO Connected successfully to API
+13:20:27,876 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+13:20:28,96 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000&offset=140000 HTTP/1.1" 200 None
+13:20:28,542 ckan_logger INFO Connected successfully to API
+13:20:28,542 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+13:20:28,795 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000&offset=150000 HTTP/1.1" 200 None
+13:20:29,299 ckan_logger INFO Connected successfully to API
+13:20:29,299 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+13:20:29,488 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000&offset=160000 HTTP/1.1" 200 None
+13:20:29,880 ckan_logger INFO Connected successfully to API
+13:20:29,880 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+13:20:30,84 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000&offset=170000 HTTP/1.1" 200 None
+13:20:30,570 ckan_logger INFO Connected successfully to API
+13:20:30,570 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+13:20:30,775 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000&offset=180000 HTTP/1.1" 200 None
+13:20:31,235 ckan_logger INFO Connected successfully to API
+13:20:31,235 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+13:20:31,453 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000&offset=190000 HTTP/1.1" 200 None
+13:20:31,896 ckan_logger INFO Connected successfully to API
+13:20:31,896 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+13:20:32,106 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000&offset=200000 HTTP/1.1" 200 None
+13:20:42,256 root INFO Running ckan
+13:20:42,272 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+13:20:42,523 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000 HTTP/1.1" 200 None
+13:20:43,49 ckan_logger INFO Connected successfully to API
+13:20:43,49 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+13:20:43,286 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000&offset=10000 HTTP/1.1" 200 None
+13:20:43,688 ckan_logger INFO Connected successfully to API
+13:20:43,688 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+13:20:43,940 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000&offset=20000 HTTP/1.1" 200 None
+13:20:44,463 ckan_logger INFO Connected successfully to API
+13:20:44,463 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+13:20:44,682 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000&offset=30000 HTTP/1.1" 200 None
+13:20:45,118 ckan_logger INFO Connected successfully to API
+13:20:45,118 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+13:20:45,333 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000&offset=40000 HTTP/1.1" 200 None
+13:20:45,772 ckan_logger INFO Connected successfully to API
+13:20:45,772 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+13:20:46,24 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000&offset=50000 HTTP/1.1" 200 None
+13:20:47,20 ckan_logger INFO Connected successfully to API
+13:20:47,20 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+13:20:47,230 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000&offset=60000 HTTP/1.1" 200 None
+13:20:47,665 ckan_logger INFO Connected successfully to API
+13:20:47,665 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+13:20:47,915 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000&offset=70000 HTTP/1.1" 200 None
+13:20:48,371 ckan_logger INFO Connected successfully to API
+13:20:48,387 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+13:20:48,589 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000&offset=80000 HTTP/1.1" 200 None
+13:20:48,982 ckan_logger INFO Connected successfully to API
+13:20:48,982 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+13:20:49,233 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000&offset=90000 HTTP/1.1" 200 None
+13:20:49,736 ckan_logger INFO Connected successfully to API
+13:20:49,736 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+13:20:49,987 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000&offset=100000 HTTP/1.1" 200 None
+13:20:50,441 ckan_logger INFO Connected successfully to API
+13:20:50,441 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+13:20:50,693 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000&offset=110000 HTTP/1.1" 200 None
+13:20:51,150 ckan_logger INFO Connected successfully to API
+13:20:51,150 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+13:20:51,356 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000&offset=120000 HTTP/1.1" 200 None
+13:20:51,736 ckan_logger INFO Connected successfully to API
+13:20:51,736 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+13:20:51,936 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000&offset=130000 HTTP/1.1" 200 None
+13:20:52,344 ckan_logger INFO Connected successfully to API
+13:20:52,344 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+13:20:52,596 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000&offset=140000 HTTP/1.1" 200 None
+13:20:53,129 ckan_logger INFO Connected successfully to API
+13:20:53,129 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+13:20:53,339 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000&offset=150000 HTTP/1.1" 200 None
+13:20:53,725 ckan_logger INFO Connected successfully to API
+13:20:53,740 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+13:20:53,946 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000&offset=160000 HTTP/1.1" 200 None
+13:20:54,322 ckan_logger INFO Connected successfully to API
+13:20:54,322 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+13:20:54,574 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000&offset=170000 HTTP/1.1" 200 None
+13:20:55,61 ckan_logger INFO Connected successfully to API
+13:20:55,61 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+13:20:55,313 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000&offset=180000 HTTP/1.1" 200 None
+13:20:55,817 ckan_logger INFO Connected successfully to API
+13:20:55,817 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+13:20:56,21 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000&offset=190000 HTTP/1.1" 200 None
+13:20:56,446 ckan_logger INFO Connected successfully to API
+13:20:56,446 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+13:20:56,651 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000&offset=200000 HTTP/1.1" 200 None
+13:20:57,108 ckan_logger INFO Connected successfully to API
+13:20:57,108 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+13:20:57,344 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000&offset=210000 HTTP/1.1" 200 None
+13:20:57,814 ckan_logger INFO Connected successfully to API
+13:20:57,814 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+13:20:58,19 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000&offset=220000 HTTP/1.1" 200 None
+13:20:58,445 ckan_logger INFO Connected successfully to API
+13:20:58,445 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+13:20:58,665 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000&offset=230000 HTTP/1.1" 200 None
+13:20:59,90 ckan_logger INFO Connected successfully to API
+13:20:59,90 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+13:21:02,172 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000&offset=240000 HTTP/1.1" 200 None
+13:21:02,621 ckan_logger INFO Connected successfully to API
+13:21:02,621 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+13:21:02,825 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000&offset=250000 HTTP/1.1" 200 None
+13:21:03,233 ckan_logger INFO Connected successfully to API
+13:21:03,249 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+13:21:03,500 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000&offset=260000 HTTP/1.1" 200 None
+13:21:04,34 ckan_logger INFO Connected successfully to API
+13:21:04,34 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+13:21:04,960 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000&offset=270000 HTTP/1.1" 200 None
+13:21:05,384 ckan_logger INFO Connected successfully to API
+13:21:05,384 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+13:21:05,603 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000&offset=280000 HTTP/1.1" 200 None
+13:21:06,27 ckan_logger INFO Connected successfully to API
+13:21:06,27 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+13:21:07,16 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000&offset=290000 HTTP/1.1" 200 None
+13:21:07,458 ckan_logger INFO Connected successfully to API
+13:21:07,458 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+13:21:07,662 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000&offset=300000 HTTP/1.1" 200 None
+13:21:08,65 ckan_logger INFO Connected successfully to API
+13:21:08,65 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+13:21:08,332 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000&offset=310000 HTTP/1.1" 200 None
+13:21:08,863 ckan_logger INFO Connected successfully to API
+13:21:08,863 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+13:21:09,98 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000&offset=320000 HTTP/1.1" 200 None
+13:21:09,610 ckan_logger INFO Connected successfully to API
+13:21:09,610 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+13:21:09,830 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000&offset=330000 HTTP/1.1" 200 None
+13:21:10,262 ckan_logger INFO Connected successfully to API
+13:21:10,262 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+13:21:11,659 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000&offset=340000 HTTP/1.1" 200 None
+13:21:12,113 ckan_logger INFO Connected successfully to API
+13:21:12,113 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+13:21:12,348 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000&offset=350000 HTTP/1.1" 200 None
+13:21:12,869 ckan_logger INFO Connected successfully to API
+13:21:12,869 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+13:21:13,74 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000&offset=360000 HTTP/1.1" 200 None
+13:21:13,469 ckan_logger INFO Connected successfully to API
+13:21:13,469 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+13:21:13,720 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000&offset=370000 HTTP/1.1" 200 None
+13:21:14,238 ckan_logger INFO Connected successfully to API
+13:21:14,238 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+13:21:15,369 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000&offset=380000 HTTP/1.1" 200 None
+13:21:15,871 ckan_logger INFO Connected successfully to API
+13:21:15,871 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+13:21:16,90 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000&offset=390000 HTTP/1.1" 200 None
+13:21:16,530 ckan_logger INFO Connected successfully to API
+13:21:16,530 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+13:21:16,734 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000&offset=400000 HTTP/1.1" 200 None
+13:21:17,143 ckan_logger INFO Connected successfully to API
+13:21:17,143 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+13:21:17,393 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000&offset=410000 HTTP/1.1" 200 None
+13:21:17,896 ckan_logger INFO Connected successfully to API
+13:21:17,896 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+13:21:18,97 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000&offset=420000 HTTP/1.1" 200 94285
+13:21:18,253 ckan_logger INFO Connected successfully to API
+13:21:18,253 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+13:21:19,180 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=bfd22231-7a8b-4fc0-91bd-342397860ab5&limit=10000&offset=430000 HTTP/1.1" 200 None
+11:17:48,508 root INFO Running ckan
+11:17:48,508 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+11:17:49,58 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=0f772fd8-0010-46be-9f40-28a6229fe682&limit=10000 HTTP/1.1" 200 None
+11:17:49,58 ckan_logger INFO Connected successfully to API
+11:17:49,68 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+11:17:49,472 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=0f772fd8-0010-46be-9f40-28a6229fe682&limit=10000&offset=10000 HTTP/1.1" 200 1046
+11:19:06,288 root INFO Running ckan
+11:19:06,296 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+11:19:06,568 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=0f772fd8-0010-46be-9f40-28a6229fe682&limit=10000 HTTP/1.1" 200 3455
+11:19:06,578 ckan_logger INFO Connected successfully to API
+11:19:06,586 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+11:19:06,828 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=0f772fd8-0010-46be-9f40-28a6229fe682&limit=10000&offset=10000 HTTP/1.1" 200 1046
+12:58:24,652 root INFO Running ckan
+12:58:24,652 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+12:58:25,506 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=5fc13c50-b6f3-4712-b831-a75e0f91a17e&limit=10000 HTTP/1.1" 200 None
+12:58:25,689 ckan_logger INFO Connected successfully to API
+12:58:25,689 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+12:58:26,228 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=5fc13c50-b6f3-4712-b831-a75e0f91a17e&limit=10000&offset=10000 HTTP/1.1" 200 None
+12:58:26,401 ckan_logger INFO Connected successfully to API
+12:58:26,405 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+12:58:27,41 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=5fc13c50-b6f3-4712-b831-a75e0f91a17e&limit=10000&offset=20000 HTTP/1.1" 200 None
+12:58:27,231 ckan_logger INFO Connected successfully to API
+12:58:27,231 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): data.gov.il:443
+12:58:27,802 urllib3.connectionpool DEBUG https://data.gov.il:443 "GET //api/3/action/datastore_search?resource_id=5fc13c50-b6f3-4712-b831-a75e0f91a17e&limit=10000&offset=30000 HTTP/1.1" 200 None
