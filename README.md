@@ -8,22 +8,20 @@ The questions do we want to answer: Predicting felons over time - region - type 
 #need to do:
 
 #About the data: 643493 observations include:
-ArealAttributionType סיווג של השיוך הגאוגרפי של התיקים
-PoliceDistrict המחוז שבתחומו התרחשו העבירות
-PoliceMerhav המרחב שבתחומו התרחשו העבירות
-PoliceStation התחנה שבתחומה התרחשו העבירות
-Settlement_Council הישוב, או המועצה האזורית, או המקום שבתחומם התרחשו העבירות
-StatArea האזור הסטטיסטי שבתחומו התרחשו העבירות
-Quarter רבעון ושנה בהם קרו העבירות
-StatisticCrimeGroup קבוצת העבירה
-StatisticCrimeType סיווג העבירה
-TikimSum כמות תיקי הפשיעה
-
-
-
+ArealAttributionType סיווג של השיוך הגאוגרפי של התיקים - X
+PoliceDistrict המחוז שבתחומו התרחשו העבירות - V
+PoliceMerhav המרחב שבתחומו התרחשו העבירות - V
+PoliceStation התחנה שבתחומה התרחשו העבירות- V
+Settlement_Council הישוב, או המועצה האזורית, או המקום שבתחומם התרחשו העבירות- V
+StatArea  האזור הסטטיסטי שבתחומו התרחשו העבירות - DROP THIS VARIABLE
+Quarter רבעון ושנה בהם קרו העבירות- V
+StatisticCrimeGroup קבוצת העבירה- V
+StatisticCrimeType סיווג העבירה- V
+TikimSum כמות תיקי הפשיעה- V
 
 #Documentation of cleansing the data:
-
+- Change values of 'StatisticCrimeGroup','StatisticCrimeType' in order not to have duplicates values
+- 
 
 
 You can try to answer to the following question:
