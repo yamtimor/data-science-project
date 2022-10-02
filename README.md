@@ -1,15 +1,30 @@
 #Data Science Project Protocol
 Introduction
-Known fact about public transportation and road traffics is that due to its lack of functioning its the current greatest barrier to the economic growth in Israel
-We will focused on the Jerualem - Tel aviv route due to our preliminary acquaintance of this route and its importance in employment wise.
+We decided to start with simple predictive model- take criminal records in Israel (origin: https://data.gov.il/dataset/crime_records_data
+we use the first file -  פירוט של תיקי פשיעה לפי אזור רבעון וסוגי עבירות)
 
-The questions do we want to answer: How the launching of the fast train from Tel aviv to Jerusalem affect the time we spend in this route
+The questions do we want to answer: Predicting felons over time - region - type (By clustering?)
 
 #need to do:
-Define the specific route were dealing with - eventually we will measure the time took to car to do this road
-the time that we are 
 
-want to examine the roads situation before and after the train opening 
+#About the data: 643493 observations include:
+ArealAttributionType סיווג של השיוך הגאוגרפי של התיקים
+PoliceDistrict המחוז שבתחומו התרחשו העבירות
+PoliceMerhav המרחב שבתחומו התרחשו העבירות
+PoliceStation התחנה שבתחומה התרחשו העבירות
+Settlement_Council הישוב, או המועצה האזורית, או המקום שבתחומם התרחשו העבירות
+StatArea האזור הסטטיסטי שבתחומו התרחשו העבירות
+Quarter רבעון ושנה בהם קרו העבירות
+StatisticCrimeGroup קבוצת העבירה
+StatisticCrimeType סיווג העבירה
+TikimSum כמות תיקי הפשיעה
+
+
+
+
+#Documentation of cleansing the data:
+
+
 
 You can try to answer to the following question:
 Which 
