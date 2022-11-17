@@ -3,7 +3,7 @@ Introduction
 We decided to start with simple predictive model- take criminal records in Israel (origin: https://data.gov.il/dataset/crime_records_data
 we use the first file -  פירוט של תיקי פשיעה לפי אזור רבעון וסוגי עבירות)
 
-The questions do we want to answer: Predicting felons over time - region - type (By clustering?)
+The questions we want to answer: Predicting felons over time - region - type (By clustering?)
 
 #need to do:
 
